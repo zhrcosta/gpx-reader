@@ -1,0 +1,10 @@
+# name: geopython
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=>3.6
+  - folium=>0.12
+  - gpxpy=>1.4
+  - notebook=>6.3
+  - pip
