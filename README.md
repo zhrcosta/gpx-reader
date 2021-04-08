@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cauachagas/gpx-reader/HEAD?filepath=reader.iypnb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cauachagas/gpx-reader/HEAD?filepath=reader.ipynb)
 
 
 # Geolocalização + Python
